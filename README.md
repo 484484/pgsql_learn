@@ -1,2 +1,2 @@
 # pgsql_learn
-* a project for learning SQL language and base python to use
+* A project for learning SQL, based on Python.
